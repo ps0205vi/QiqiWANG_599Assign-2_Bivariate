@@ -1,1 +1,3 @@
-# QiqiWANG_599Assign-2_Bivariate
+# Qiqi WANG
+# 599Assign-2
+# Bivariate
